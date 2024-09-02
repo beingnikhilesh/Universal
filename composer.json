@@ -1,0 +1,16 @@
+{
+    "name": "beingnikhilesh/universal",
+    "description": "Generic PHP Library to Store and Pass Variables across the whole Project",
+    "keywords": [
+          "php", "error", "codeigniter", "variables", "Storage"
+      ],
+    "license": "MIT",
+    "autoload": {
+      "psr-4": {
+        "beingnikhilesh\\universal\\": "src/"
+      }
+    },
+    "require": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true
+  }
